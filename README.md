@@ -28,3 +28,11 @@ Here is a brief illustration of the code:
 
 
 For any more detail, please contact xy_zhang@seu.edu.cn
+
+
+
+基本参数在 basic_parameter.py 中定义
+通道数据集在data_generate.py中生成
+神经网络模型在ISTA_Net（SMO-LISTA）和LISTA（LISTA）中
+训练在LISTA_off(LISTA)和M_X_offgridK_128.py(SMO-LISTA)中进行
+
